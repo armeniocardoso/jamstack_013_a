@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.navlink {
+  @apply bg-sky-500 hover:bg-sky-700 p-2
+}
